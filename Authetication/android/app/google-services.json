@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126283961168",
+    "project_id": "medoc-48d32",
+    "storage_bucket": "medoc-48d32.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126283961168:android:bf93cd2b71a9b66db95255",
+        "android_client_info": {
+          "package_name": "com.example.autth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSXTa07wOc8m_Z6ZWFNrZvuk8sQ5mQqNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
